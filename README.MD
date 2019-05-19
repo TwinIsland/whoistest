@@ -1,6 +1,6 @@
 # Whois Tester
 
-When I first learn python, I made this program to send it as a Christmas gift for one of my friend because he always dream to invest the domain and become a rich people. However, until now, He got nothing back.
+When I first learn python, I made this program and send it as a Christmas gift to one of my friend because he always dream to invest the domain and become a rich people. However, until now, He got nothing back.
 
 ## How to use?
 
